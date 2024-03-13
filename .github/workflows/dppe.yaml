@@ -41,4 +41,3 @@ jobs:
        env:
          ECR_REGISTRY: ${{ env.ECR_REGISTRY }}
          REPO_NAME: ${{ env.REPO_NAME }}
-
